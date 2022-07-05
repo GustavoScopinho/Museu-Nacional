@@ -1,7 +1,6 @@
 # Museu-Nacional
 
-## 🚀 Descrição do projeto.
-
+## 🚀 Descrição do projeto:
 Projeto feito para estudo, utilizando localização e agendamento de visíta fictício para o Museu Nacional do Rio de Janeiro.
 <br> 
 
